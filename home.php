@@ -18,20 +18,13 @@
 				<div class="logo">
 					Students Corner
 				</div>
-				<div class="menu">
-					<ul>
-						<li><a href="#">Home</a></li>
-						<li><a href="#">About</a></li>
-						<li><a href="#">Blog</a></li>
-						<li><a href="#">Contact</a></li>
-					</ul>
-				</div>	
+				
 			</nav>
 		</header>
 		<setion class="slider">
 			<ul class="slider-carousel" id="slider-carousel">
 				<li>
-					<h2>Wellcome to STUDENTS CORNER</h2>
+					<h2>Wellcome t</h2>
 				</li>
 				<li>
 					<h2>Wellcome to STUDENTS CORNER</h2>
