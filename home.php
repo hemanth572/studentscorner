@@ -31,13 +31,13 @@
 		<setion class="slider">
 			<ul class="slider-carousel" id="slider-carousel">
 				<li>
-					<h2>Wellcome to STUDENTS CORNER</h2>
+					<h2>Welle to STUDENTS CORNER</h2>
 				</li>
 				<li>
-					<h2>Wellcome to STUDENTS CORNER</h2>
+					<h2>Wel to STUDENTS CORNER</h2>
 				</li>
 				<li>
-					<h2>Wellcome to STUDENTS CORNER</h2>
+					<h2>Wele to STUDENTS CORNER</h2>
 				</li>
 			</ul>
 		</setion>
